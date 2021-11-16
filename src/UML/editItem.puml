@@ -1,0 +1,8 @@
+@startuml
+class editItem{
+  editDescription
+   changeDueDate
+  changeStatus
+  }
+
+@enduml
